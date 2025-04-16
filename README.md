@@ -21,7 +21,7 @@ Med-bot is an AI-powered chatbot designed to identify diseases and assess their 
 - **Frontend**: Streamlit / Web UI (optional enhancement)
 - **Backend**: Python
 - **LLM**: Open-source LLM (e.g., Llama, Mistral, or Hugging Face model)
-- **Retrieval**: FAISS / ChromaDB
+- **Retrieval**: FAISS 
 - **Embedding Models**: SentenceTransformers
 - **Libraries**: 
   - `langchain`
